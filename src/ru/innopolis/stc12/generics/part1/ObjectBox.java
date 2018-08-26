@@ -1,4 +1,4 @@
-package ru.innopolis.stc12.generics;
+package ru.innopolis.stc12.generics.part1;
 
 
 import ru.innopolis.stc12.generics.Exceptions.MyCustomException;

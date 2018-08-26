@@ -1,4 +1,4 @@
-package ru.innopolis.stc12.generics;
+package ru.innopolis.stc12.generics.part1;
 
 import java.util.Arrays;
 import java.util.List;
